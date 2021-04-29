@@ -1,0 +1,10 @@
+body{background-image:linear-gradient(black,grey)}
+h1{font-family:Old English Text MT;font-size:80px;color:#A9BE0A;text-shadow:2px 2px 4px blue}
+marquee{color:white}
+.p{color:white}
+.img1{border-style:solid; border-color:white}
+.img2{border-style:solid; border-color:white;}
+table{border-collapse:collapse}
+.s{text-align:right;text-indent:20px;text-decoration:underline;text-family:Broadway;text-weight:bold;}
+.p1{border:10px outset white;margin-left:20px;padding:10px}
+.p2{font-family:Elephant}
